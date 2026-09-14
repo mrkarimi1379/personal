@@ -2,15 +2,15 @@
 
 Auto-published every 12h.
 
-Last updated: 2026-09-13 12:28 UTC
-Total configs: 895  |  Clash-compatible: 713
+Last updated: 2026-09-14 01:54 UTC
+Total configs: 759  |  Clash-compatible: 595
 
 ## Use in V2rayNG 
 Add as a subscription URL base64
 ```
 https://raw.githubusercontent.com/mrkarimi1379/personal/main/v2ray_base64.txt
 ```
-Plain-text version (one link per line, if your client prefers that):
+Plain-text version :
 ```
 https://raw.githubusercontent.com/mrkarimi1379/personal/main/v2ray_plain.txt
 ```
